@@ -93,10 +93,9 @@
 Feel free to explore my repositories, give feedback, or reach out if you’re interested in collaborating!
 
 
-<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eng-MohamedHosni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=Eng-MohamedHosny&color=blue)
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Eng-MohamedHosny)
 
 ---
