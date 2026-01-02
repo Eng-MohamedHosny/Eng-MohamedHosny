@@ -21,7 +21,7 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me  
 <div align="center">
-	<a href="https://www.linkedin.com/in/mohamed-hosni-hassan/">
+	<a href="https://www.linkedin.com/in/eng-mohamedhosny/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 	</a>
 	
