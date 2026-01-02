@@ -7,7 +7,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me     
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br>
-- :school: I am a `Junior` at [Faculty of Computers & Artificial Intelligence] at [Sohag University].
+- :school: I am a `Junior` at Faculty of Computers & Artificial Intelligence at Sohag University.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`.
 - :student: I’m currently learning `Computer Science` and `Web Development`.
