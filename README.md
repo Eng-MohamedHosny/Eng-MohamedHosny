@@ -28,6 +28,8 @@
 <a href="mailto:emohamed.10189@gmail.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </a>
+<br><br>
+<a href="https://eng-mohamed-hosny.netlify.app/">My Social Media Links</a>
 </div>  
 
 ## 🛠️ Skills   
