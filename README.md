@@ -1,163 +1,45 @@
-<h1 align="center">Hi, I'm Mohamed Hosny <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=680&height=50&lines=Full-Stack+Software+Engineer;AI+Automation+%26+Workflows+Engineer;Frontend+%26+React+Developer;Competitive+Programmer"></a>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero.svg" width="100%" alt="Mohamed Hosny: Software Engineer and AI Enthusiast. Building with AI, every day."></picture>
 </p>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="45"></picture> About Me     
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230"></picture>
-
-- 🎓 **Junior Computer Science Student** at Sohag University.
-- 💼 **ex Frontend Intern** at **Eduzah**, leading sprint deliverables, feature architecture, and collaborative Git workflows.
-- 🏆 **1st Place Winner** at **Router Plex AI Hackathon** (Engineered an intelligent medical triage assistant *Sehetak AI* integrated with LLMs).
-- 🤖 **AI Automation Specialist** experienced in building autonomous **AI Agents, Multi-Agent Workflows, Agent Delegation, RAG pipelines**, and **n8n integrations**.
-- 💻 **Competitive Programmer** with **500+** algorithmic problems solved on **Codeforces** and **LeetCode**.
-- 🚀 Passionate about engineering scalable, accessible full-stack applications with exceptional UI/UX.
-- 💼 Open for high-impact software engineering opportunities.
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eng-MohamedHosny&color=156e57&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
-<br>
-
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="80"></picture> Connect With Me  
-<div align="center">
-  <a href="https://www.linkedin.com/in/eng-mohamedhosny/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:emohamed.10189@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Eng-MohamedHosny" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>  
-
-<br>
-
-## 🛠️ Technical Stack & Skills
-
-### ⚡ Interactive Tech Bar
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,js,ts,html,css,vite,cpp,cs,java,postgres,git,github,postman,figma" />
-  </a>
+  <a href="https://www.linkedin.com/in/eng-mohamedhosny/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img src="assets/btn-linkedin.svg" height="46" alt="LinkedIn"></picture></a>
+  <a href="https://x.com/EngMoHosny"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-x-dark.svg"><img src="assets/btn-x.svg" height="46" alt="X"></picture></a>
+  <a href="https://www.youtube.com/@eng-mohamed-hosny"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-youtube-dark.svg"><img src="assets/btn-youtube.svg" height="46" alt="YouTube"></picture></a>
+  <a href="https://www.instagram.com/eng.mohamedhosny/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-instagram-dark.svg"><img src="assets/btn-instagram.svg" height="46" alt="Instagram"></picture></a>
+  <a href="https://www.threads.net/@eng.mohamedhosny"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-threads-dark.svg"><img src="assets/btn-threads.svg" height="46" alt="Threads"></picture></a>
+  <a href="https://www.facebook.com/eng.mohamedhosny.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-facebook-dark.svg"><img src="assets/btn-facebook.svg" height="46" alt="Facebook"></picture></a>
+  <a href="mailto:eng.mohamedhosny.dev@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img src="assets/btn-email.svg" height="46" alt="Email"></picture></a>
 </p>
 
-### 🤖 AI & Automation Engineering
-<div align="center">
-  <img src="https://img.shields.io/badge/AI%20Agents-7B42F6?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Multi--Agent%20Workflows-512BD4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agent%20Delegation-156e57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/n8n%20Automation-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG%20Architecture-007ACC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM%20Integration-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF9900?style=for-the-badge" />
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-about-dark.svg"><img src="assets/h-about.svg" width="100%" alt="01 About me"></picture>
 
-<br>
+I'm **Mohamed Hosny**, a software engineer who builds with AI every day, and I share what I learn so you can use AI in your daily work too.
 
-### 🌐 Frontend & Full-Stack Development
-<div align="center">
-  <img src="https://img.shields.io/badge/React%2018-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript%20(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/RESTful%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Responsive%20Design-7B42F6?style=for-the-badge" />
-</div>
+- **1st Place, Router Plex AI Hackathon.** Built *Sehetak AI*, an LLM-powered medical triage assistant that speaks Egyptian Arabic.
+- **AI automation.** Autonomous agents, multi-agent workflows, agent delegation, RAG pipelines and n8n integrations.
+- **Frontend engineering.** Ex-Frontend Intern at Eduzah: sprint deliverables, feature architecture and team Git workflows.
+- **Problem solving.** 500+ problems on [Codeforces](https://codeforces.com/profile/MohamedHosni_54) and [LeetCode](https://leetcode.com/u/MoahmedHosni/). Computer Science student at Sohag University.
 
-<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-highlights-dark.svg"><img src="assets/h-highlights.svg" width="100%" alt="02 Highlights"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/highlights-dark.svg"><img src="assets/highlights.svg" width="100%" alt="1st place Router Plex AI Hackathon, 500+ problems solved, 2 live products, AI agents"></picture>
 
-### 🗄️ Databases & Development Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Relational%20DB%20Design-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-stack-dark.svg"><img src="assets/h-stack.svg" width="100%" alt="03 Tech stack"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack.svg" width="100%" alt="AI and automation: n8n, Gemini, LangChain, RAG, agents. Frontend: React, TypeScript, JavaScript, Tailwind, Vite, HTML5. Backend and data: Laravel, PostgreSQL, SQL Server, C++, C#/.NET, Java. Tools: Git, GitHub, Postman, Figma."></picture>
 
-<br>
-
-### 🧠 Problem Solving & Core Computer Science
-<div align="center">
-  <img src="https://img.shields.io/badge/Data%20Structures-E83F25?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Algorithms-A62C2C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOP-7B42F6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Competitive%20Programming-2C3E50?style=for-the-badge" />
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-work-dark.svg"><img src="assets/h-work.svg" width="100%" alt="04 Featured work"></picture>
 
 <p align="center">
-  <a href="https://codeforces.com/profile/MohamedHosni_54" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/MoahmedHosni/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
+  <a href="https://github.com/Eng-MohamedHosny/Ai-Hackathon-Project"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-sehetak-dark.svg"><img src="assets/p-sehetak.svg" width="49%" alt="Sehetak AI, 1st place: AI clinical triage assistant"></picture></a>
+  <a href="https://github.com/Eng-MohamedHosny/Any-Service-Project"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-anyservice-dark.svg"><img src="assets/p-anyservice.svg" width="49%" alt="Ay Khedma: on-demand home services platform"></picture></a>
 </p>
-
-<br>
-
-### 🤝 Leadership & Collaboration
-<div align="center">
-  <img src="https://img.shields.io/badge/Team%20Leadership-156E57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Presentation%20Skills-3D365C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cross--functional%20Teamwork-7C4585?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Peer%20Mentorship-C95792?style=for-the-badge" />
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">🛠️ Ay Khedma (Any Service Platform)</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/React%2018-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-          <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-        </p>
-        <p>An on-demand home services ecosystem featuring 8 categories, 4-step booking wizard, dynamic payments (InstaPay/Fawry/Wallets), Arabic normalization search, and an interactive support chatbot.</p>
-        <p align="center">
-          <a href="https://any-service.vercel.app"><b>🌐 Live Demo</b></a> | 
-          <a href="https://github.com/Eng-MohamedHosny/Any-Service-Project"><b>💻 Repository</b></a>
-        </p>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">🏥 Sehetak AI (صحتك AI) — 1st Place Winner</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/React%2018-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-          <img src="https://img.shields.io/badge/Laravel%2012-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white"/>
-        </p>
-        <p>Won <b>1st Place at Router Plex AI Hackathon</b>. An AI clinical triage and navigation assistant conversing in Egyptian Arabic dialect, featuring real-time SSE streaming, 13 clinical specialties, and red-flag detection.</p>
-        <p align="center">
-          <a href="https://sehetak-ai.pages.dev"><b>🌐 Live Demo</b></a> | 
-          <a href="https://github.com/Eng-MohamedHosny/Ai-Hackathon-Project"><b>💻 Repository</b></a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 
 <p align="center">
-  <i>"Passionate about writing clean code, building autonomous agentic systems, and turning complex challenges into seamless digital products."</i>
-  <br><br>
-  <b>Feel free to reach out or explore my repositories!</b>
+  <b>Sehetak AI</b>: <a href="https://sehetak-ai.pages.dev">Live demo</a> · <a href="https://github.com/Eng-MohamedHosny/Ai-Hackathon-Project">Code</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b>Ay Khedma</b>: <a href="https://any-service.vercel.app">Live demo</a> · <a href="https://github.com/Eng-MohamedHosny/Any-Service-Project">Code</a>
 </p>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-connect-dark.svg"><img src="assets/h-connect.svg" width="100%" alt="05 Let's connect"></picture>
+
+<a href="mailto:eng.mohamedhosny.dev@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg"><img src="assets/footer.svg" width="100%" alt="Let's build something useful. eng.mohamedhosny.dev@gmail.com"></picture></a>
