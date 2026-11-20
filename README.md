@@ -1,5 +1,5 @@
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero.svg" width="100%" alt="Mohamed Hosny: Software Engineer and AI Enthusiast. Building with AI, every day."></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero.svg" width="100%" alt="Mohamed Hosny: Software Engineer and AI Enthusiast. Built right, boosted by AI, always up to date."></picture>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-about-dark.svg"><img src="assets/h-about.svg" width="100%" alt="01 About me"></picture>
 
-I'm **Mohamed Hosny**, a software engineer who builds with AI every day, and I share what I learn so you can use AI in your daily work too.
+I'm **Mohamed Hosny**, a software engineer who builds clean, well-crafted features and puts AI to work where it helps. I keep up with what changes in AI every day, and I share what I learn so you can use it in your daily work too.
 
 - **1st Place, Router Plex AI Hackathon.** Built *Sehetak AI*, an LLM-powered medical triage assistant that speaks Egyptian Arabic.
 - **AI automation.** Autonomous agents, multi-agent workflows, agent delegation, RAG pipelines and n8n integrations.
