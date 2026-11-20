@@ -40,6 +40,8 @@ I'm **Mohamed Hosny**, a software engineer who builds with AI every day, and I s
   <b>Ay Khedma</b>: <a href="https://any-service.vercel.app">Live demo</a> · <a href="https://github.com/Eng-MohamedHosny/Any-Service-Project">Code</a>
 </p>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/fly-dark.svg"><img src="assets/fly.svg" width="100%" alt=""></picture>
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-connect-dark.svg"><img src="assets/h-connect.svg" width="100%" alt="05 Let's connect"></picture>
 
 <a href="mailto:eng.mohamedhosny.dev@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg"><img src="assets/footer.svg" width="100%" alt="Let's build something useful. eng.mohamedhosny.dev@gmail.com"></picture></a>
