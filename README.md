@@ -1,5 +1,5 @@
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero.svg" width="100%" alt="Mohamed Hosny: Software Engineer and AI Enthusiast. Building with AI, every day."></picture>
+  <a href="mailto:eng.mohamedhosny.dev@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero.svg" width="100%" alt="Mohamed Hosny: Software Engineer and AI Enthusiast. Your product, built right. Let's work together."></picture></a>
 </p>
 
 <p align="center">
